@@ -1,0 +1,6 @@
+{
+  "name": "おててぴょん！キッズローマ字タイピング",
+  "description": "６さいからの はじめての ローマ字タイピング。立体的なおててガイドと あいうえお から 楽しく学ぼう！",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
